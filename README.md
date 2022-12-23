@@ -73,8 +73,25 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Searching for data
-Finding the year that had the most pollution in each country
+<p align="rigth"> Data Analysis Projects in Python
+
+Welcome to our data analysis projects repository! In this repository, you'll find a collection of data analysis projects implemented in Python. Each project includes a detailed description of the problem, the data used, the approach taken to solve the problem, and the results obtained.
+Getting Started
+
+To get started with these projects, you'll need to have a basic understanding of Python and some familiarity with data analysis techniques. We recommend that you have the following tools and libraries installed on your computer:
+
+    Python 3
+    NumPy
+    Pandas
+    Matplotlib
+    Seaborn
+    Scikit-learn
+
+You can install these tools and libraries using pip, the Python package manager. For example, to install NumPy, you can use the following command:
+
+pip install numpy
+
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
