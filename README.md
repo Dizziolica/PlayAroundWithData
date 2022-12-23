@@ -1,7 +1,7 @@
 # PlayAroundWithData
 
 
-# LeetCode
+
 
 
 <a name= the year that had the most pollution in each country"readme-top"></a>
@@ -45,7 +45,7 @@
       </ul>
     </li>
     <li>
-      <a href="/ligacao.py">Getting Started</a>
+      <a href= "https://github.com/Dizziolica/PlayAroundWithData" >Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
